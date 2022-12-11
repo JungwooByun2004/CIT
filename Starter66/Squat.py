@@ -1,4 +1,4 @@
-
+#https://www.codechef.com/problems/SQUATS
 
 import sys
 import math
