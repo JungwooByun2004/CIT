@@ -1,4 +1,4 @@
-# Starters 66
+# Starters 61
 ## URL : 
 https://www.codechef.com/START61D?order=desc&sortBy=successful_submissions
 

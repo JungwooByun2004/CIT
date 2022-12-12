@@ -1,4 +1,4 @@
-# Starters 66
+# Starters 64
 ## URL : 
 https://www.codechef.com/START64D?order=desc&sortBy=successful_submissions
 
